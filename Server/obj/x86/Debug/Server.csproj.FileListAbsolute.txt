@@ -1,0 +1,38 @@
+c:\users\user\documents\visual studio 2010\Projects\ChatProgram\Server\bin\Debug\Server.exe
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\bin\Debug\Server.exe
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\bin\Debug\Server.pdb
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\Server.Form1.resources
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\Server.exe
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Server\obj\x86\Debug\Server.pdb
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\bin\Debug\Server.exe
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\bin\Debug\Server.pdb
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.exe
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.pdb
+E:\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.exe
+E:\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.pdb
+F:\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.exe
+F:\Visual Studio 2015\Projects\ChatProgram\Server\obj\x86\Debug\Server.pdb
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\bin\Debug\Server.exe
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.Form1.resources
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.exe
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.pdb
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Server\bin\Debug\Server.pdb
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.exe
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.pdb
+C:\Users\SV\Desktop\ChatProgram\Server\bin\Debug\Server.exe
+C:\Users\SV\Desktop\ChatProgram\Server\bin\Debug\Server.pdb
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\SV\Desktop\ChatProgram\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache

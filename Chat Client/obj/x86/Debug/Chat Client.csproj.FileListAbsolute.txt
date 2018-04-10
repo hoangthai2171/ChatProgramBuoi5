@@ -1,0 +1,41 @@
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\bin\Debug\Chat Client.exe
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\bin\Debug\Chat Client.pdb
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Form1.resources
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Properties.Resources.resources
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.exe
+D:\Lap trinh mang\ThucHanh3\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.pdb
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.exe
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.pdb
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\bin\Debug\Chat Client.exe
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\bin\Debug\Chat Client.pdb
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Form1.resources
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Properties.Resources.resources
+C:\Users\Tran Phuong Tuan\Documents\Visual Studio 2015\Projects\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csproj.GenerateResource.Cache
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\bin\Debug\Chat Client.exe
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\bin\Debug\Chat Client.pdb
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Form1.resources
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Properties.Resources.resources
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csproj.GenerateResource.Cache
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.exe
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.pdb
+D:\Thay P.Tuan\Lap Trinh Mang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.exe
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.pdb
+C:\Users\SV\Desktop\ChatProgram\Chat Client\bin\Debug\Chat Client.exe
+C:\Users\SV\Desktop\ChatProgram\Chat Client\bin\Debug\Chat Client.pdb
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Form1.resources
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Properties.Resources.resources
+C:\Users\SV\Desktop\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csproj.GenerateResource.Cache
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.exe
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.pdb
+F:\LTMang\ChatProgram\Chat Client\bin\Debug\Chat Client.exe
+F:\LTMang\ChatProgram\Chat Client\bin\Debug\Chat Client.pdb
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csprojResolveAssemblyReference.cache
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Form1.resources
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat_Client.Properties.Resources.resources
+F:\LTMang\ChatProgram\Chat Client\obj\x86\Debug\Chat Client.csproj.GenerateResource.Cache
